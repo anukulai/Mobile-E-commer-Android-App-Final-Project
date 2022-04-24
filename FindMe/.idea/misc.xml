@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FindMe/app/src/main/res/layout/activity_add_members.xml" value="0.24139492753623187" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/activity_circle_details.xml" value="0.19293478260869565" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/activity_circle_map.xml" value="0.19293478260869565" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/activity_find_me.xml" value="0.2427536231884058" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/activity_main.xml" value="0.20923913043478262" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/activity_setting.xml" value="0.20923913043478262" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/app_bar_circle_details.xml" value="0.1" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/content_circle_map.xml" value="0.12083333333333333" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/content_find_me.xml" value="0.25416666666666665" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/delete_this.xml" value="0.1" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/layout_add_circle.xml" value="0.1" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/layout_add_members.xml" value="0.1" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/list_members.xml" value="0.1" />
+        <entry key="..\:/FindMe/app/src/main/res/layout/nav_header_circle_details.xml" value="0.1" />
+        <entry key="..\:/FindMe/app/src/main/res/menu/activity_circle_details_drawer.xml" value="0.1" />
+        <entry key="..\:/FindMe/app/src/main/res/menu/circle_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_find_me.xml" value="0.17255434782608695" />
+        <entry key="app/src/main/res/layout/activity_forgot_password.xml" value="0.22010869565217392" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_register_user.xml" value="0.15070921985815602" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
